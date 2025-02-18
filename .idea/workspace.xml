@@ -4,15 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5b2de8b5-6481-4912-ab44-6ad56d75c363" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/NewRegistratorProject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    <list default="true" id="5b2de8b5-6481-4912-ab44-6ad56d75c363" name="Changes" comment="Initialising project with all SMS services and&#10;emulator controller itself" />
+    <list id="fd5576d5-1c89-4a3b-aa9e-a49a84820c88" name="Initialising project with all SMS services and emulator controller itself" comment="Initialising project with all SMS services and emulator controller itself">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,25 +15,47 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="KEEP" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="22714755-ad6a-4874-99ef-bf825407db2e" />
+        <option name="url" value="https://github.com/artyomkap/tg_autoregistrator.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
   <component name="ProjectId" id="2tAIZeMG9cfqXatCUXCYxEGNtPS" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python tests.Python tests for main.test_find_battery.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for main.test_start_telegram_app.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python tests.Python tests for main.test_find_battery.executor": "Run",
+    "Python tests.Python tests for main.test_start_telegram_app.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/Артем/NewRegistratorProject/services"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Артем\NewRegistratorProject\services" />
+    </key>
+  </component>
   <component name="RunManager" selected="Python tests.Python tests for main.test_start_telegram_app">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="NewRegistratorProject" />
@@ -111,11 +127,62 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="5b2de8b5-6481-4912-ab44-6ad56d75c363" name="Changes" comment="" />
+      <changelist id="fd5576d5-1c89-4a3b-aa9e-a49a84820c88" name="Initialising project with all SMS services and emulator controller itself" comment="" />
       <created>1739788509113</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1739788509113</updated>
     </task>
+    <task id="LOCAL-00001" summary="Initialising project with all SMS services and&#10;emulator controller itself">
+      <option name="closed" value="true" />
+      <created>1739881608968</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1739881608968</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Initialising project with all SMS services and&#10;emulator controller itself">
+      <option name="closed" value="true" />
+      <created>1739881671785</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1739881671785</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Initialising project with all SMS services and&#10;emulator controller itself">
+      <option name="closed" value="true" />
+      <created>1739881685013</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1739881685013</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Initialising project with all SMS services and emulator controller itself">
+      <option name="closed" value="true" />
+      <created>1739882052694</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1739882052694</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Revert &quot;Initialising project with all SMS services and emulator controller itself&quot;&#10;&#10;This reverts commit 5e535dc9" />
+    <MESSAGE value="Initialising project with all SMS services and&#10;emulator controller itself" />
+    <MESSAGE value="Initialising project with all SMS services and emulator controller itself" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initialising project with all SMS services and emulator controller itself" />
   </component>
 </project>
